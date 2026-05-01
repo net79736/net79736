@@ -26,6 +26,7 @@
 ![Apache Tomcat](https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
 
 ### Used As Least Once
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -34,6 +35,7 @@
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![ELK](https://img.shields.io/badge/ELK-005571?style=flat-square)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
 ### IDE
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
